@@ -44,13 +44,23 @@ class Contact extends Component {
                   {ContactData["description"]}
                 </p>
                 <SocialMedia theme={theme} />
-                <div className="resume-btn-div">
-                  <Button
-                    text="See My Resume"
-                    newTab={true}
-                    href={greeting.resumeLink}
-                    theme={theme}
-                  />
+                <div className="resume-btn-wrapper">
+                  <div className="resume-btn-div">
+                    <Button
+                      text="See my SDE Resume"
+                      newTab={true}
+                      href={greeting.sdeResumeLink}
+                      theme={theme}
+                    />
+                  </div>
+                  <div className="resume-btn-div">
+                    <Button
+                      text="See my ML/AI Resume"
+                      newTab={true}
+                      href={greeting.mlResumeLink}
+                      theme={theme}
+                    />
+                  </div>
                 </div>
               </div>
             </div>

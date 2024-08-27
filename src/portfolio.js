@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Charan's Portfolio",
   description:
-    "A tech enthusiast driven by a passion for creating impactful, scalable solutions that blend innovation with sustainability to create positive impact in social and technical spaces.",
+    "A tech enthusiast driven by a passion for creating impactful, scalable solutions that blend innovation with technology to create positive impact in social and technical spaces.",
   og: {
     title: "Charan Gajjala Chenchu Portfolio",
     type: "website",
@@ -23,9 +23,11 @@ const greeting = {
   logo_name: "Charan Gajjala Chenchu",
   nickname: "Charan",
   subTitle:
-    "A tech enthusiast driven by a passion for creating impactful, scalable solutions that blend innovation with sustainability to create positive impact in social and technical spaces.",
-  resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "A tech enthusiast driven by a passion for creating impactful, scalable solutions that blend innovation with technology to create positive impact in social and technical spaces.",
+  mlResumeLink:
+    "https://drive.google.com/file/d/14i_8pvQs-DLiS2dC0_Dly62pfVHoRb57/view?usp=sharing",
+  sdeResumeLink:
+    "https://drive.google.com/file/d/1nUcZbynLXkzs9KpYk6JlA7sSB1UFbys2/view?usp=sharing",
   portfolio_repository: "https://github.com/charangajjala",
   githubProfile: "https://github.com/charangajjala",
   reposList: "https://github.com/charangajjala?tab=repositories",

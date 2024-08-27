@@ -109,7 +109,7 @@
 }
 
 .resume-btn-div {
-  width: 100%;
+  /* width: 100%; */
   display: flex;
   justify-content: center;
 }
@@ -191,4 +191,15 @@
     line-height: normal;
     text-align: center;
   }
+}
+
+.resume-btn-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Controls the space between buttons */
+}
+
+.resume-btn-div {
+  margin: 0; /* Remove the margin to minimize spacing */
 }
