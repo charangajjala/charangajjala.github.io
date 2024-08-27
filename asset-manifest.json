@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d734d2d4.chunk.css",
-    "main.js": "/static/js/main.7e12d112.chunk.js",
-    "main.js.map": "/static/js/main.7e12d112.chunk.js.map",
+    "main.css": "/static/css/main.57a09547.chunk.css",
+    "main.js": "/static/js/main.f31433d0.chunk.js",
+    "main.js.map": "/static/js/main.f31433d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.38c689b0.js",
     "runtime-main.js.map": "/static/js/runtime-main.38c689b0.js.map",
     "static/js/2.15eac81d.chunk.js": "/static/js/2.15eac81d.chunk.js",
     "static/js/2.15eac81d.chunk.js.map": "/static/js/2.15eac81d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2666f022819cfeb2c885dfb61068a381.js": "/precache-manifest.2666f022819cfeb2c885dfb61068a381.js",
+    "precache-manifest.dddc40d69f70daf2056fa5e112693d8e.js": "/precache-manifest.dddc40d69f70daf2056fa5e112693d8e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d734d2d4.chunk.css.map": "/static/css/main.d734d2d4.chunk.css.map",
+    "static/css/main.57a09547.chunk.css.map": "/static/css/main.57a09547.chunk.css.map",
     "static/media/62bd9f00bafda8767a088b3b.png": "/static/media/62bd9f00bafda8767a088b3b.b23910fb.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Hong_Kong_University_of_Science_and_Technology-Logo.wine.png": "/static/media/Hong_Kong_University_of_Science_and_Technology-Logo.wine.24d441e4.png",
@@ -55,7 +55,7 @@
   "entrypoints": [
     "static/js/runtime-main.38c689b0.js",
     "static/js/2.15eac81d.chunk.js",
-    "static/css/main.d734d2d4.chunk.css",
-    "static/js/main.7e12d112.chunk.js"
+    "static/css/main.57a09547.chunk.css",
+    "static/js/main.f31433d0.chunk.js"
   ]
 }
