@@ -303,10 +303,10 @@ const degrees = {
       title: "University of Houston",
       subtitle: "Master of Science in Computer Science",
       logo_path: "uh_red.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2023 - Expected 2025",
+      alt_name: "UH",
+      duration: "2023 - 2025",
       descriptions: [
-        "⚡ I have studied courses like Cloud Computing, Visualization, Image processing and Data Mining.",
+        "⚡ I have studied courses like Cloud Computing, Machine Learning, Artificial Intelligence, Image processing and Data Mining.",
         "⚡ Apart from this, I have worked as a research assistant in the field of Machine Learning and Computer Vision.",
       ],
       website_link: "https://uh.edu",
@@ -385,6 +385,22 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Work",
+      experiences: [
+        {
+          title: "AI Software Engineer",
+          company: "Innovative Litigation Services LLC",
+          company_url: "https://ilstech.com/",
+          logo_path: "",
+          duration: "Jul 2025 - Present",
+          location: "Houston, Tx, USA",
+          description:
+            "",
+          color: "#000000",
+        },
+      ],
+    },
+    {
       title: "Internships",
       experiences: [
         {
@@ -392,8 +408,8 @@ const experience = {
           company: "Interactive Network Technologies, Inc. (INT)",
           company_url: "https://www.int.com/",
           logo_path: "int_logo.jpeg",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          duration: "May 2024 - Aug 2024",
+          location: "Houston, Tx, USA",
           description:
             "During my internship, I improved a documentation website by integrating Elastic Lunr JS and debouncing techniques, reducing search latency by 10%. I built a Node.js performance monitoring app with Express REST API, Puppeteer, and MongoDB, cutting redundant test runs by 90%. I also productionized the system with Docker, deployed on AWS ECS with Fargate, and automated CI/CD pipelines, reducing deployment time by 50%.",
           color: "#000000",
@@ -404,6 +420,17 @@ const experience = {
       title: "Assistantships",
       work: true,
       experiences: [
+         {
+          title: "Machine Learning Research Assistant",
+          company: "University of Houston",
+          company_url: "https://www.uh.edu/",
+          logo_path: "uh_red.png",
+          duration: "Sep 2024 - May 2025",
+          location: "Houston, TX, USA",
+          description:
+            "I developed a motion intention recognition system using TensorFlow to classify temporal data into 8 activity classes, predicting construction workers' intended actions. The project achieved 95% accuracy through fine-tuning a Video Swin Transformer model and 90% accuracy using a custom 1D CNN and LSTM model for sEMG sensor data. I enhanced model generalizability and accuracy by 5% with sliding window transformations, low-pass filtering, and data augmentation techniques.",
+          color: "#000000",
+        },
         {
           title: "Machine Learning Research Assistant",
           company: "University of Houston",
